@@ -2,4 +2,8 @@ this is a new file
 git is a free software --issue-101
 Creating a new branch is quick AND simple.
 this is a new change
+<<<<<<< HEAD
 this is a new change --test
+=======
+this is a new change from 14:05 dev
+>>>>>>> 767f863f2dd28a861087bde0f939445c7ff131ea
