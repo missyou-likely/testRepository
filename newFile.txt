@@ -1,5 +1,5 @@
 this is a new file 
-Creating a new branch is quick.
+git is a free software --issue-101
 Creating a new branch is quick AND simple.
 this is a new change
 this is a new change --test
